@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#11161a"/><path d="M0 520L1200 150" stroke="#293137" stroke-width="2"/><path d="M760 0V630M970 0V630" stroke="#293137" stroke-width="1"/>
+  <g transform="translate(72 62)"><rect width="76" height="76" fill="#11161a" stroke="#93a0a8" stroke-width="2"/><path d="M19 56V20L57 56V20" fill="none" stroke="#f4f1e8" stroke-width="7"/><circle cx="19" cy="20" r="5" fill="#d7ff56"/><circle cx="38" cy="38" r="5" fill="#f27855"/><circle cx="57" cy="56" r="5" fill="#d7ff56"/></g>
+  <text x="170" y="91" fill="#f4f1e8" font-family="Arial" font-size="24" font-weight="800" letter-spacing="2">NETWEIGHA LAB</text><text x="170" y="124" fill="#f27855" font-family="Arial" font-size="18">× GITHUB · ТЕХНОЛОГИЧЕСКИЕ РЕШЕНИЯ</text>
+  <text x="72" y="255" fill="#f4f1e8" font-family="Arial" font-size="68" font-weight="800">Как составить</text><text x="72" y="332" fill="#f4f1e8" font-family="Arial" font-size="68" font-weight="800">воспроизводимый</text><text x="72" y="409" fill="#f4f1e8" font-family="Arial" font-size="68" font-weight="800">рейтинг компаний</text>
+  <path d="M72 458H1128" stroke="#f27855" stroke-width="4"/><text x="72" y="520" fill="#93a0a8" font-family="Arial" font-size="25">МЕТОДИКА  /  ФОРМУЛЫ  /  ДАННЫЕ  /  ВАЛИДАТОР</text><text x="72" y="580" fill="#d7ff56" font-family="Arial" font-size="18" font-weight="700" letter-spacing="2">REPRODUCIBLE RESEARCH SYSTEM</text>
+</svg>
